@@ -78,7 +78,7 @@ section h3 {
   margin-top: 10px;
   padding-left: 20px;
   list-style-type: disc;
-  color: #555;
+  color: #1a237e; /* Updated to match the theme */
 }
 
 .activity-card ul li {
